@@ -124,5 +124,6 @@ This ensures fair evaluation and reproducibility of results.
 
 **Durva K and Aditya D**  
 Artificial Intelligence & Data Science  
+signal processing and electronics system
 
-> “Machines speak through sound — AI makes sense of it.”
+> “your bikes talks we help you listen.”
