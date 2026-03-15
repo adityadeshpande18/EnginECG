@@ -95,8 +95,7 @@ This ensures fair evaluation and reproducibility of results.
 - Scikit-learn  
 - TensorFlow / Keras  
 - Matplotlib
-- Matlab
-- Google Colab  
+- Matlab 
 
 ---
 
