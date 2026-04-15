@@ -82,7 +82,7 @@ The workflow is modular and easily adaptable to new models, datasets, or deploym
 - Transparent file-level inspection  
 - Strict class-wise separation  
 
-This ensures fair evaluation and reproducibility of results.
+This ensures fair evaluation and reproducibility of results .
 
 ---
 
