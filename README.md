@@ -1,4 +1,4 @@
-# Adurvaad Cyclotune 
+# EnginECG
 
 This project demonstrates the development of an AI-based Engine Optimizer and Predictive Fault Diagnosis System using signal processing and machine learning techniques. The system analyzes engine vibration and acoustic signals to detect early-stage faults and performance issues.
 
